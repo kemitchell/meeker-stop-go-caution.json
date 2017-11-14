@@ -1,0 +1,75 @@
+{
+  "go": [
+    "BSD-2-Clause",
+    "BSD-2-Clause-FreeBSD",
+    "BSD-2-Clause-NetBSD",
+    "BSD-3-Clause",
+    "MIT",
+    "Apache-1.1",
+    "Apache-2.0",
+    "Artistic-1.0",
+    "PHP-3.0",
+    "PHP-3.1",
+    "Python-2.0",
+    "ZLib",
+    "zlib-acknowledgement",
+    "BSL-1.0",
+    "OpenSSL",
+    "WTFPL",
+    "CC0-1.0",
+    "CC-BY-1.0",
+    "CC-BY-2.0",
+    "CC-BY-2.5",
+    "CC-BY-3.0",
+    "CC-BY-4.0"
+  ],
+  "caution": [
+    "GPL-2.0",
+    {
+      "identifier": "GPL-2.0",
+      "notes": [
+        "only when a standalone process"
+      ]
+    },
+    {
+      "identifier": "LGPL-2.1",
+      "notes": [
+        "only when dynamically linked"
+      ]
+    },
+    "MPL-2.0",
+    "CDDL",
+    "CPL",
+    "IBM",
+    "GPL-2.0 WITH Classpath-exception-2.0",
+    "GPL-2.0 WITH Autoconf-exception-2.0",
+    "Apache-1.0"
+  ],
+  "stop": [
+    "GPL-3.0",
+    "LGPL-3.0",
+    "Sleepycat",
+    "GDL",
+    "CC-BY-SA",
+    "AGPL-1.0",
+    "AGPL-3.0",
+    "OSL-1.0",
+    "OSL-1.1",
+    "OSL-2.0",
+    "OSL-2.1",
+    "OSL-3.0",
+    "AFL-1.1",
+    "AFL-1.2",
+    "AFL-2.0",
+    "AFL-2.1",
+    "AFL-3.0",
+    "Artistic-2.0",
+    "APSL-1.0",
+    "APSL-1.1",
+    "APSL-1.2",
+    "APSL-2.0",
+    "RPSL-1.0",
+    "RPL-1.1",
+    "RPL-1.5"
+  ]
+}
